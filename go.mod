@@ -1,6 +1,6 @@
 module github.com/jra-technologies-inc/vs-premio-nakama
 
-go 1.22.1
+go 1.19
 
 require github.com/heroiclabs/nakama-common v1.30.1
 
